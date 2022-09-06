@@ -1,4 +1,4 @@
-#Arm HPC User Group Github Organization
+# Arm HPC User Group Github Organization
 
 The Arm HPC User Group – or AHUG, is a user-led, not-for-profit organization intent on promoting the latest Arm-based silicon, systems and platforms for the High Performance and Technical Computing community. The organization is open to all members, and our focus is on supporting community engagement and education via workshops, tutorials, and hackathons. Please see our [main website](a-hug.org) for more information on the organization. This Github presence is meant to provide access to materials provided at recent events.
 
