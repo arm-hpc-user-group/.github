@@ -1,13 +1,17 @@
 # Arm HPC User Group Github Organization
 
-The Arm HPC User Group – or AHUG, is a user-led, not-for-profit organization intent on promoting the latest Arm-based silicon, systems and platforms for the High Performance and Technical Computing community. The organization is open to all members, and our focus is on supporting community engagement and education via workshops, tutorials, and hackathons. Please see our [main website](a-hug.org) for more information on the organization. This Github presence is meant to provide access to materials provided at recent events.
+The Arm HPC User Group – or AHUG, is a user-led, not-for-profit organization intent on promoting the latest Arm-based silicon, systems and platforms for the High Performance and Technical Computing community. The organization is open to all members, and our focus is on supporting community engagement and education via workshops, tutorials, and hackathons.
 
-## Recent AHUG Events
-* [SC 2022 Symposium](https://github.com/arm-hpc-user-group/sc22-ahug-symposium) - a non-proceedings symposium focused on community efforts and updates in the Arm HPC space. 
-* [IWAHPCE 2023](https://arm-hpc-user-group.github.io/iwahpce-2023/) - a proceedings-based workshop focused on Arm research and work related to Arm supercomputers
-* [Embracing Arm for HPC 2022](https://arm-hpc-user-group.github.io/eahpc-2022/) - a proceedings-based workshop on the latest Arm HPC research
-* [ISC AHUG 2022 Workshop](https://github.com/arm-hpc-user-group/isc22-ahug-workshop) - a non-proceedings workshop focused on community efforts and updates in the Arm HPC space. 
+## Events 
 
-### How to Get Engaged with AHUG
-* Join one of our events! See [this page](https://a-hug.org/events/) for more details on official AHUG events.
-* Join the [AHUG Slack and/or mailing list](https://a-hug.org/contact/).
+### International Supercomputing Conference (ISC) 2024 @ May 12-16, 2024
+* [**Arm HPC User Group**](https://arm-hpc-user-group.github.io/isc24-ahug-workshop/) 
+* Neoverse tutorial [**From Zero to Hero: Conquering the Arm Neoverse**](https://app.swapcard.com/widget/event/isc-high-performance-2024/planning/UGxhbm5pbmdfMTgyNTYzOQ==)
+  * Repository material: https://github.com/arm-hpc-user-group/tutorial-neoverse
+* BoF [**Arm in HPC: Where We Are Today and Where We Are Heading Tomorrow**](https://app.swapcard.com/widget/event/isc-high-performance-2024/planning/UGxhbm5pbmdfMTgyNjc4Ng==)
+
+##### Past Events
+
+## How to Get Engaged with AHUG
+* Join the [AHUG Slack](https://join.slack.com/t/a-hug/shared_invite/zt-25r69qm2u-hhEkbN7terYpw7K3W2k6Eg).
+* Join the [AHUG groups.io mailing-list](https://arm-hpc.groups.io/g/ahug).
