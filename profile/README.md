@@ -2,6 +2,11 @@
 
 The Arm HPC User Group (AHUG) is a user-led not-for-profit organization intent on promoting the latest Arm-based silicon, systems and platforms for the High Performance and Technical Computing community. The organization is open to all members, and our focus is on supporting community engagement and education via workshops, tutorials, and hackathons.
 
+#### How to participate 
+* Join the [AHUG Slack](https://join.slack.com/t/a-hug/shared_invite/zt-25r69qm2u-hhEkbN7terYpw7K3W2k6Eg).
+* Join the [AHUG groups.io mailing-list](https://arm-hpc.groups.io/g/ahug).
+
+
 ## Events 
 
 ### ISC High Performance 2024 (ISC24) ~ May 12-16, 2024
@@ -18,6 +23,3 @@ The Arm HPC User Group (AHUG) is a user-led not-for-profit organization intent o
 * [Arm HPC User Group workshop](https://arm-hpc-user-group.github.io/isc23-ahug-workshop/) co-located with ISC23
 * BoF "[Arm HPC Software Ecosystem Maturity on Fresh, Capable Hardware]([https://sc23.conference-program.com/presentation/?id=bof120&sess=sess350](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgyMw==))" co-located with ISC23
 
-## How to Get Engaged with AHUG
-* Join the [AHUG Slack](https://join.slack.com/t/a-hug/shared_invite/zt-25r69qm2u-hhEkbN7terYpw7K3W2k6Eg).
-* Join the [AHUG groups.io mailing-list](https://arm-hpc.groups.io/g/ahug).
