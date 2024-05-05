@@ -4,7 +4,7 @@ The Arm HPC User Group – or AHUG, is a user-led, not-for-profit organization i
 
 ## Events 
 
-### International Supercomputing Conference (ISC) 2024 @ May 12-16, 2024
+### ISC High Performance 2024 (ISC24) @ May 12-16, 2024
 * [**Arm HPC User Group**](https://arm-hpc-user-group.github.io/isc24-ahug-workshop/) 
 * Neoverse tutorial [**From Zero to Hero: Conquering the Arm Neoverse**](https://app.swapcard.com/widget/event/isc-high-performance-2024/planning/UGxhbm5pbmdfMTgyNTYzOQ==)
   * Repository material: https://github.com/arm-hpc-user-group/tutorial-neoverse
