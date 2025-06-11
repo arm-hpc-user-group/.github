@@ -21,5 +21,5 @@ The Arm HPC User Group (AHUG) is a user-led not-for-profit organization intent o
 * Tutorial "[**From Zero to Hero: Conquering the Arm Neoverse**](https://sc23.conference-program.com/presentation/?id=tut142&sess=sess229)" co-located with SC23
 * BoF "[**Arm in HPC: Experiences and Lessons Learned in Operating Arm-Based HPC Systems**](https://sc23.conference-program.com/presentation/?id=bof120&sess=sess350)" co-located with SC23
 * Workshop [**Arm HPC User Group 2023**](https://arm-hpc-user-group.github.io/isc23-ahug-workshop/) co-located with ISC23
-* BoF "[**Arm HPC Software Ecosystem Maturity on Fresh, Capable Hardware**]([https://sc23.conference-program.com/presentation/?id=bof120&sess=sess350](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgyMw==))" co-located with ISC23
+* BoF "[**Arm HPC Software Ecosystem Maturity on Fresh, Capable Hardware**](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgyMw==)" co-located with ISC23
 * Workshop "[**2023 International Workshop on Arm-based HPC: Practice and Experience**](https://arm-hpc-user-group.github.io/iwahpce-2023/)" (IWAHPCE23) co-located with HPCAsia23
